@@ -16,7 +16,7 @@
       "start": "node dist/main.js"
    },
    "dependencies": {
-      "@octokit/rest": "^18.1.1",
+      "@octokit/rest": "^18.2.0",
       "dotenv": "^8.2.0",
       "express": "^4.17.1",
       "https-proxy-agent": "^5.0.0"
